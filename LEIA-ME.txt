@@ -1,0 +1,9 @@
+GEOPOLÍTICA SHOW — SITE PARA GITHUB PAGES
+
+1. Extraia o ZIP.
+2. No repositório público do GitHub, envie TODOS os arquivos HTML para a raiz (não envie o ZIP como único arquivo).
+3. Em Settings > Pages, selecione Deploy from a branch, main, /(root).
+4. O endereço do site será https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+5. Abra o endereço no celular para testar a navegação antes de compartilhar.
+
+IMPORTANTE: A versão III é a aprovada anteriormente; IV–VIII são primeiras versões completas para revisão docente. Os diagramas não são mapas históricos georreferenciados. Atualize acontecimentos contemporâneos antes de cada aplicação.
